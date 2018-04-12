@@ -7,7 +7,7 @@
     <groupId>de.java.regexdsl</groupId>
     <artifactId>regexdsl</artifactId>
     <packaging>jar</packaging>
-    <version>1.0</version>
+    <version>1.0-csky</version>
     <name>regexdsl</name>
 
    <distributionManagement>
